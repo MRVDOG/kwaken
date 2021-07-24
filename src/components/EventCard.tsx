@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme: Theme) =>
         },
         media: {
             height: 0,
-            paddingTop: '56.25%', // 16:9
+            paddingTop: '50%', // 1:2
         },
         actionArea: {
             position: 'relative',
