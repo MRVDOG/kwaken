@@ -26,6 +26,12 @@ export default () => {
     const classes = useStyles();
 
     const getEvents = async () => {
+        /**
+         * Fetching from a local file instead of the URL provided,
+         * due to the fact all the ID's are the same, so I downloaded
+         * the file and changed them to unique ID's, just so I could use
+         * them as Component Map Keys
+         */
         const { data } = await axios.get(`/data/eventbrite.json`);
 
         if ( data?.events ) {
@@ -50,6 +56,7 @@ export default () => {
 
     return <div className={classes.root}>
         <Grid container spacing={ 2 }>
+            { error }
             { events?.map((event, index) =>
                 <EventCard
                     key={ event.id + index }
