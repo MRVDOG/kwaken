@@ -1,0 +1,753 @@
+{
+    "pagination": {
+      "object_count": 1,
+      "page_number": 1,
+      "page_size": 1,
+      "page_count": 1,
+      "continuation": "dGhpcyBpcyBhIGNvbnRpbnVhdGlvbiB0b2tlbg",
+      "has_more_items": false
+    },
+    "events": [
+      {
+        "id": "1",
+        "name": {
+          "text": "Evolving Design Systems",
+          "html": "<h1>Evolving Design Systems</h1>"
+        },
+        "description": {
+          "text": "\"A design system offers a library of visual style, components, and other concerns documented and released by an individual, team or community as code and design tools so that adopting products can be more efficient and cohesive.” -Nathan Curtis, Founder of EightShapes\r\n\r\nAs design’s prominence in companies grows, the creation and adoption of design systems have become the norm. Companies old and new, from IBM to Google have all launched their own design systems in the past few years. But the creation of the design system is just the starting point.\r\n\r\nHow do these large companies keep a design system updated and evolving with the company while continuing to optimize for efficiency and consistency? How does the adoption and challenges of design systems change over time?\r\n\r\nJoin us in a panel discussion on evolving design systems with designers from Salesforce, Dropbox, Indeed, and Amazon.\r\n\r\nBefore and after the panel, you'll have the chance to check out some behind-the-scenes peeks of what we've been working on.\r\n\r\nAll proceeds from the event will be donated back to SF Design Week.\r\n\r\n\r\n\r\n\r\n\r\nPanelists:\r\nKim Williams, Director of Experience Design, Indeed\r\n\r\nShahrzad Samadzadeh, Principle Designer, Salesforce\r\n\r\nJina Anne, Senior Design Systems Lead, Amazon Web Services, Special Projects\r\n\r\nEd Chao, Product Designer, Dropbox\r\n\r\nModerated by:\r\nElijah Woolery, Director of Design Education, InVision\r\n\r\nSchedule\r\n\r\n\r\n\r\n6:00 - 7:00pm Check-in, Networking & Dinner\r\n7:00 - 8:15pm Panel + Q&A\r\n8:15 - 9:00pm Networking, chat with panelists",
+          "html": "<div class=\"js-xd-read-more-contents l-mar-top-3\" data-automation=\"listing-event-description\" style=\"\">\r\n            <p><span>\"<em>A design system offers a library of visual style, components, and other concerns documented and released by an individual, team or community as code and design tools so that adopting products can be more efficient and cohesiv</em>e.” -Nathan Curtis, Founder of EightShapes</span><br><br><span>As design’s prominence in companies grows, the creation and adoption of design systems have become the norm. Companies old and new, from IBM to Google have all launched their own design systems in the past few years. But the creation of the design system is just the starting point.</span><br><br><span>How do these large companies keep a design system updated and evolving with the company while continuing to optimize for efficiency and consistency? How does the adoption and challenges of design systems change over time?</span><br><br><span>Join us in a panel discussion on evolving design systems with designers from Salesforce, Dropbox, Indeed, and Amazon.</span></p>\r\n<p>Before and after the panel, you'll have the chance to check out some behind-the-scenes peeks of what we've been working on.</p>\r\n<p>All proceeds from the event will be donated back to SF Design Week.</p>\r\n<p><br></p>\r\n<p><span></span><br><br><span><strong>Panelists:</strong> </span><br><span>Kim Williams, Director of Experience Design, Indeed</span></p>\r\n<p>Shahrzad Samadzadeh, Principle Designer, Salesforce </p>\r\n<p>Jina Anne, Senior Design Systems Lead, Amazon Web Services, Special Projects</p>\r\n<p><span>Ed Chao, Product Designer, Dropbox</span><br><br><strong>Moderated by:</strong><br><span>Elijah Woolery, Director of Design Education, InVision</span></p>\r\n<p class=\"m_-3406347770188603044gmail-p1\"><strong><span class=\"aBn\"><span class=\"aQJ\">Schedule</span></span></strong></p>\r\n<p class=\"m_-3406347770188603044gmail-p1\"><br></p>\r\n<ul>\r\n<li><span class=\"aQJ\">6:00 - 7:00pm</span> Check-in, Networking &amp; Dinner</li>\r\n<li><span class=\"aQJ\">7:00 - 8:15pm</span> Panel + Q&amp;A</li>\r\n<li><span class=\"aQJ\">8:15 - 9:00pm</span> Networking, chat with panelists</li>\r\n</ul>\r\n<p><br></p>\r\n<p><br></p>\r\n<p><br></p>\r\n<p><br></p>\r\n<p><span><img src=\"https://cdn.evbuc.com/eventlogos/199118665/58256625indeed1.jpg\"></span></p>\r\n<p><br></p>\r\n<p><br></p>\r\n<p><br></p>\r\n<hr>\r\n<p><br></p>\r\n<p><em>Event Type: Panel<br></em></p>\r\n<p><em>Event Focus: Branding, Digital, Design Education, Experience Design, Product Design, Tech</em></p>\r\n<p><em>REFUND POLICY: We do not offer refunds. If the event is sold out, we might be able to give your spot to someone on the waitlist.</em></p>\r\n<p><em><span>By purchasing a ticket you are agreeing to the terms of the </span><a href=\"http://aigasf.org/aiga-san-francisco-weapons-free-policy/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">AIGA SF <span class=\"il\">Weapons</span>-Free Policy</a></em></p>\r\n           </div>"
+        },
+        "start": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2018-05-12T02:00:00Z",
+          "local": "2018-05-11T19:00:00"
+        },
+        "end": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2018-05-12T02:00:00Z",
+          "local": "2018-05-11T19:00:00"
+        },
+        "url": "https://www.eventbrite.com/e/45263283700",
+        "vanity_url": "https://testevent.eventbrite.com",
+        "created": "2017-02-19T20:28:14Z",
+        "changed": "2017-02-19T20:28:14Z",
+        "published": "2017-02-19T20:28:14Z",
+        "status": "live",
+        "currency": "USD",
+        "online_event": false,
+        "organization_id": "",
+        "organizer_id": "",
+        "organizer": {
+          "name": "",
+          "description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "long_description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "logo_id": null,
+          "logo": {
+            "id": "12345",
+            "url": "https://image.com",
+            "crop_mask": {
+              "top_left": {
+                "y": 15,
+                "x": 15
+              },
+              "width": 15,
+              "height": 15
+            },
+            "original": {
+              "url": "https://image.com",
+              "width": 800,
+              "height": 400
+            },
+            "aspect_ratio": "2",
+            "edge_color": "#6a7c8b",
+            "edge_color_set": true
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/organizers/12345/",
+          "id": "12345",
+          "url": "https://www.eventbrite.com/o/12345/",
+          "num_past_events": 5,
+          "num_future_events": 1,
+          "twitter": "@abc",
+          "facebook": "abc"
+        },
+        "logo_id": null,
+        "logo": {
+          "id": "12345",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43694293%2F200512495655%2F1%2Foriginal.jpg?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ce2f9f9b42ef9513349a34043ea3001a",
+          "crop_mask": {
+            "top_left": {
+              "y": 15,
+              "x": 15
+            },
+            "width": 15,
+            "height": 15
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43694293%2F200512495655%2F1%2Foriginal.jpg?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ce2f9f9b42ef9513349a34043ea3001a",
+            "width": 800,
+            "height": 400
+          },
+          "aspect_ratio": "2",
+          "edge_color": "#6a7c8b",
+          "edge_color_set": true
+        },
+        "venue": {
+          "name": "Great Venue",
+          "age_restriction": null,
+          "capacity": 100,
+          "address": {
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "region": null,
+            "postal_code": null,
+            "country": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/venues/3003/",
+          "id": "3003",
+          "latitude": "49.28497549999999",
+          "longitude": "123.11082529999999"
+        },
+        "format_id": null,
+        "format": {
+          "id": "2",
+          "name": "Seminar or Talk",
+          "name_localized": "Seminar or Talk",
+          "short_name": "Seminar",
+          "short_name_localized": "Seminar",
+          "resource_uri": "https://www.eventbriteapi.com/v3/formats/2/"
+        },
+        "category": {
+          "id": "103",
+          "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+          "name": "Music",
+          "name_localized": "Music",
+          "short_name": "Music",
+          "short_name_localized": "Music",
+          "subcategories": [
+            {
+              "id": "3003",
+              "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+              "name": "Classical",
+              "parent_category": {}
+            }
+          ]
+        },
+        "subcategory": {
+          "id": "3003",
+          "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+          "name": "Classical",
+          "parent_category": {
+            "id": "103",
+            "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+            "name": "Music",
+            "name_localized": "Music",
+            "short_name": "Music",
+            "short_name_localized": "Music",
+            "subcategories": [
+              {}
+            ]
+          }
+        },
+        "music_properties": {
+          "age_restriction": null,
+          "presented_by": null,
+          "door_time": "2019-05-12T-19:00:00Z"
+        },
+        "bookmark_info": {
+          "bookmarked": false
+        },
+        "ticket_availability": {
+          "has_available_tickets": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "is_sold_out": true,
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          },
+          "waitlist_available": false
+        },
+        "listed": false,
+        "shareable": false,
+        "invite_only": false,
+        "show_remaining": true,
+        "password": "12345",
+        "capacity": 100,
+        "capacity_is_custom": true,
+        "tx_time_limit": "12345",
+        "hide_start_date": true,
+        "hide_end_date": true,
+        "locale": "en_US",
+        "is_locked": true,
+        "privacy_setting": "unlocked",
+        "is_externally_ticketed": false,
+        "external_ticketing": {
+          "external_url": "",
+          "ticketing_provider_name": "",
+          "is_free": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "sales_start": "",
+          "sales_end": ""
+        },
+        "is_series": true,
+        "is_series_parent": true,
+        "series_id": "56321",
+        "is_reserved_seating": true,
+        "show_pick_a_seat": true,
+        "show_seatmap_thumbnail": true,
+        "show_colors_in_seatmap_thumbnail": true,
+        "is_free": true,
+        "source": "api",
+        "version": "null",
+        "resource_uri": "https://www.eventbriteapi.com/v3/events/1234/",
+        "event_sales_status": {
+          "sales_status": "text",
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          }
+        },
+        "checkout_settings": {
+          "created": "2018-01-31T13:00:00Z",
+          "changed": "2018-01-31T13:00:00Z",
+          "country_code": "",
+          "currency_code": "",
+          "checkout_method": "paypal",
+          "offline_settings": [
+            {
+              "payment_method": "CASH",
+              "instructions": ""
+            }
+          ],
+          "user_instrument_vault_id": ""
+        }
+      },
+      {
+        "id": "2",
+        "name": {
+          "text": "Leeds Careers Fair",
+          "html": "<h1>Leeds Careers Fair</h1>"
+        },
+        "description": {
+          "text": "Are you looking for a Career?\r\n\r\nLooking for the right career can often be time-consuming and frustrating. The Leeds Careers Fair will offer candidates from all backgrounds, experience and education level the opportunity to speak to an abundance of local employers, all in one place.\r\n\r\nWhy attend?\r\n\r\n• Variety\r\n\r\nThere will be a wide variety of different organisations attending, alongside a wide variety of roles being offered.\r\n\r\n• Speed\r\n\r\nOnline applications can be very time consuming – by attending you get to skip this process and directly speak to the organisation!\r\n\r\n• Meet Employers Face-to-Face\r\n\r\nThis gives you the chance to ask as many questions as you like and find out anything you want to know about the company you could potentially be starting a Career with.\r\n\r\nNo pre-registration is required, you can just turn up on the day – however, you can find out more and register your interest here.\r\n\r\nYou can find out more regarding The UK Careers Fair by visiting www.ukcareersfair.com or emailing info@ukcareersfair.com\r\nInterested in exhibiting? Secure your stand via www.ukcareersfair.com/book-a-stand/\r\n",
+          "html": "<div class=\"js-xd-read-more-contents l-mar-top-3\" data-automation=\"listing-event-description\">\r\n            <h2 class=\"MsoNormal\">Are you looking for a Career? </h2>\r\n<h2 class=\"MsoNormal\"><span> <br> Looking for the right career can often be time-consuming and frustrating. The Leeds Careers Fair will offer candidates from all backgrounds, experience and education level the opportunity to speak to an abundance of local employers, all in one place.<br> <br> Why attend?<br> <br> • Variety<br> <br> There will be a wide variety of different organisations attending, alongside a wide variety of roles being offered.<br> <br> • Speed<br> <br> Online applications can be very time consuming – by attending you get to skip this process and directly speak to the organisation!<br> <br> • Meet Employers Face-to-Face<br> <br> This gives you the chance to ask as many questions as you like and find out anything you want to know about the company you could potentially be starting a Career with.<br> <br> No pre-registration is required, you can just turn up on the day – however, you can find out more and register your interest here.<br> <br> You can find out more regarding The UK Careers Fair by visiting <a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.ukcareersfair.com%2F%3Ffbclid%3DIwAR1Oaut1JT1ko09jPmAATIcxpxBDsAZ9srmTyBg2oA1YzpKKyzmOy2Fl2rE&amp;h=AT1TjXiTPfYe_k3R_ikJsXauQbkAcvZ53dnwGhi04WC5JxQ5GzEp3_wKazml8E1_kRTNluA1n4qse-rtc8jLljxBnNDwbbKCa1Hhy9itxz4L1r9k66Vd48qTnWoXElvdstZi0CkGGyxziqN94A\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span>www.ukcareersfair.com</span></a> or emailing info@ukcareersfair.com</span></h2>\r\n<h2 class=\"text-align-center\">Interested in exhibiting? Secure your stand via www.ukcareersfair.com/book-a-stand/</h2>\r\n<p class=\"MsoNormal\"> </p>\r\n           </div>"
+        },
+        "start": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2018-05-12T02:00:00Z",
+          "local": "2018-05-11T19:00:00"
+        },
+        "end": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2018-05-12T02:00:00Z",
+          "local": "2018-05-11T19:00:00"
+        },
+        "url": "https://www.eventbrite.co.uk/e/leeds-careers-fair-tickets-74821227305?aff=ebdssbcitybrowse",
+        "vanity_url": "https://www.eventbrite.co.uk/e/leeds-careers-fair-tickets-74821227305?aff=ebdssbcitybrowse",
+        "created": "2018-03-21T20:28:14Z",
+        "changed": "2018-03-21T20:28:14Z",
+        "published": "2018-03-21T20:28:14Z",
+        "status": "live",
+        "currency": "USD",
+        "online_event": false,
+        "organization_id": "",
+        "organizer_id": "",
+        "organizer": {
+          "name": "",
+          "description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "long_description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "logo_id": null,
+          "logo": {
+            "id": "12345",
+            "url": "https://image.com",
+            "crop_mask": {
+              "top_left": {
+                "y": 15,
+                "x": 15
+              },
+              "width": 15,
+              "height": 15
+            },
+            "original": {
+              "url": "https://image.com",
+              "width": 800,
+              "height": 400
+            },
+            "aspect_ratio": "2",
+            "edge_color": "#6a7c8b",
+            "edge_color_set": true
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/organizers/12345/",
+          "id": "12345",
+          "url": "https://www.eventbrite.com/o/12345/",
+          "num_past_events": 5,
+          "num_future_events": 1,
+          "twitter": "@abc",
+          "facebook": "abc"
+        },
+        "logo_id": null,
+        "logo": {
+          "id": "12345",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F82141977%2F265949675783%2F1%2Foriginal.20191121-101533?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C300%2C744%2C372&s=dcf8796391a2520c177ac1e28dafa436",
+          "crop_mask": {
+            "top_left": {
+              "y": 15,
+              "x": 15
+            },
+            "width": 15,
+            "height": 15
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F82141977%2F265949675783%2F1%2Foriginal.20191121-101533?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C300%2C744%2C372&s=dcf8796391a2520c177ac1e28dafa436",
+            "width": 800,
+            "height": 400
+          },
+          "aspect_ratio": "2",
+          "edge_color": "#6a7c8b",
+          "edge_color_set": true
+        },
+        "venue": {
+          "name": "Great Venue",
+          "age_restriction": null,
+          "capacity": 100,
+          "address": {
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "region": null,
+            "postal_code": null,
+            "country": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/venues/3003/",
+          "id": "3003",
+          "latitude": "49.28497549999999",
+          "longitude": "123.11082529999999"
+        },
+        "format_id": null,
+        "format": {
+          "id": "2",
+          "name": "Seminar or Talk",
+          "name_localized": "Seminar or Talk",
+          "short_name": "Seminar",
+          "short_name_localized": "Seminar",
+          "resource_uri": "https://www.eventbriteapi.com/v3/formats/2/"
+        },
+        "category": {
+          "id": "103",
+          "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+          "name": "Music",
+          "name_localized": "Music",
+          "short_name": "Music",
+          "short_name_localized": "Music",
+          "subcategories": [
+            {
+              "id": "3003",
+              "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+              "name": "Classical",
+              "parent_category": {}
+            }
+          ]
+        },
+        "subcategory": {
+          "id": "3003",
+          "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+          "name": "Classical",
+          "parent_category": {
+            "id": "103",
+            "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+            "name": "Music",
+            "name_localized": "Music",
+            "short_name": "Music",
+            "short_name_localized": "Music",
+            "subcategories": [
+              {}
+            ]
+          }
+        },
+        "music_properties": {
+          "age_restriction": null,
+          "presented_by": null,
+          "door_time": "2019-05-12T-19:00:00Z"
+        },
+        "bookmark_info": {
+          "bookmarked": false
+        },
+        "ticket_availability": {
+          "has_available_tickets": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "is_sold_out": true,
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          },
+          "waitlist_available": false
+        },
+        "listed": false,
+        "shareable": false,
+        "invite_only": false,
+        "show_remaining": true,
+        "password": "12345",
+        "capacity": 100,
+        "capacity_is_custom": true,
+        "tx_time_limit": "12345",
+        "hide_start_date": true,
+        "hide_end_date": true,
+        "locale": "en_US",
+        "is_locked": true,
+        "privacy_setting": "unlocked",
+        "is_externally_ticketed": false,
+        "external_ticketing": {
+          "external_url": "",
+          "ticketing_provider_name": "",
+          "is_free": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "sales_start": "",
+          "sales_end": ""
+        },
+        "is_series": true,
+        "is_series_parent": true,
+        "series_id": "56321",
+        "is_reserved_seating": true,
+        "show_pick_a_seat": true,
+        "show_seatmap_thumbnail": true,
+        "show_colors_in_seatmap_thumbnail": true,
+        "is_free": true,
+        "source": "api",
+        "version": "null",
+        "resource_uri": "https://www.eventbriteapi.com/v3/events/1234/",
+        "event_sales_status": {
+          "sales_status": "text",
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          }
+        },
+        "checkout_settings": {
+          "created": "2018-01-31T13:00:00Z",
+          "changed": "2018-01-31T13:00:00Z",
+          "country_code": "",
+          "currency_code": "",
+          "checkout_method": "paypal",
+          "offline_settings": [
+            {
+              "payment_method": "CASH",
+              "instructions": ""
+            }
+          ],
+          "user_instrument_vault_id": ""
+        }
+      },
+      {
+        "id": "3",
+        "name": {
+          "text": "Evolving Design Systems",
+          "html": "<h1>Evolving Design Systems</h1>"
+        },
+        "description": {
+          "text": "The MJR Group presents.... Snoop Dogg 'I Wanna Thank Me' 2020 Tour!\r\nAbout this Event\r\nFEATURING SPECIAL GUESTS INCLUDING: WARREN G, THA DOGG POUND, VERSATILE, OBIE TRICE & D12.\r\n\r\nThe forthcoming tour sees the West Coast rap legend touring in support of his 17th album I Wanna Thank Me, and documentary of the same name, released earlier this year.\r\n\r\nI Wanna Thank Me celebrates 25 years of the Snoop Dogg ,a career that has seen the Doggfather cement his undisputed influence on music with chart-topping, multi-platinum records, while also solidifying his importance to wider culture as an actor, businessman and more across the board.\r\n\r\nThe tour reflects this and sees Snoop Dogg enlist a selection of his key collaborators from the breadth of his iconic music career including further West Coast hip hop royalty; Warren G, Tha Dogg Pound, Obie Trice and D12. They will also be joined by the multi-million streamed Irish rap duo Versatile.\r\n\r\nTickets go on Pre-Sale at 9am on Friday Oct 4th and go on general sale at 9am Monday October 7th.\r\n\r\nID may be required on entry as proof of purchase. Resales are strictly not permitted. The promoter reserves the right to void any tickets found on, or sold through any secondary resale sites.\r\n\r\nUnder 14’s with an Adult in Seated areas – No Under 14’s on the Standing Floor.\r\n\r\nFor venue accessibility information, please click here.\r\n\r\n",
+          "html": "<div class=\"structured-content-rich-text structured-content__module l-align-left l-mar-vert-6 l-sm-mar-vert-4 text-body-medium\">\r\n <p>FEATURING SPECIAL GUESTS INCLUDING: WARREN G, THA DOGG POUND, VERSATILE, OBIE TRICE &amp; D12.</p><p>The forthcoming tour sees the West Coast rap legend touring in support of his 17th album I Wanna Thank Me, and documentary of the same name, released earlier this year.</p><p>I Wanna Thank Me celebrates 25 years of the Snoop Dogg ,a career that has seen the Doggfather cement his undisputed influence on music with chart-topping, multi-platinum records, while also solidifying his importance to wider culture as an actor, businessman and more across the board.</p><p>The tour reflects this and sees Snoop Dogg enlist a selection of his key collaborators from the breadth of his iconic music career including further West Coast hip hop royalty; Warren G, Tha Dogg Pound, Obie Trice and D12. They will also be joined by the multi-million streamed Irish rap duo Versatile.</p><p>Tickets go on Pre-Sale at 9am on Friday Oct 4th and go on general sale at 9am Monday October 7th. </p><p>ID may be required on entry as proof of purchase. Resales are strictly not permitted. The promoter reserves the right to void any tickets found on, or sold through any secondary resale sites.</p><p>Under 14’s with an Adult in Seated areas – No Under 14’s on the Standing Floor.</p><p>For venue accessibility information, please click  <a href=\"https://www.firstdirectarena.com/venue-information/accessibility/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">here.</a> </p>\r\n</div>"
+        },
+        "start": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2020-05-12T02:00:00Z",
+          "local": "2020-05-11T19:00:00"
+        },
+        "end": {
+          "timezone": "America/Los_Angeles",
+          "utc": "2020-05-12T02:00:00Z",
+          "local": "2020-05-11T19:00:00"
+        },
+        "url": "https://www.eventbrite.co.uk/e/snoop-dogg-i-wanna-thank-me-tour-first-direct-arena-leeds-tickets-73429334115?aff=ebdssbcitybrowse",
+        "vanity_url": "https://www.eventbrite.co.uk/e/snoop-dogg-i-wanna-thank-me-tour-first-direct-arena-leeds-tickets-73429334115?aff=ebdssbcitybrowse",
+        "created": "2017-02-19T20:28:14Z",
+        "changed": "2017-02-19T20:28:14Z",
+        "published": "2017-02-19T20:28:14Z",
+        "status": "live",
+        "currency": "USD",
+        "online_event": false,
+        "organization_id": "",
+        "organizer_id": "",
+        "organizer": {
+          "name": "",
+          "description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "long_description": {
+            "text": "Some text",
+            "html": "<p>Some text</p>"
+          },
+          "logo_id": null,
+          "logo": {
+            "id": "12345",
+            "url": "https://image.com",
+            "crop_mask": {
+              "top_left": {
+                "y": 15,
+                "x": 15
+              },
+              "width": 15,
+              "height": 15
+            },
+            "original": {
+              "url": "https://image.com",
+              "width": 800,
+              "height": 400
+            },
+            "aspect_ratio": "2",
+            "edge_color": "#6a7c8b",
+            "edge_color_set": true
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/organizers/12345/",
+          "id": "12345",
+          "url": "https://www.eventbrite.com/o/12345/",
+          "num_past_events": 5,
+          "num_future_events": 1,
+          "twitter": "@abc",
+          "facebook": "abc"
+        },
+        "logo_id": null,
+        "logo": {
+          "id": "12345",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F75005633%2F173443861358%2F1%2Foriginal.20191001-123659?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=fcd80957493451cc0783f729697767ac",
+          "crop_mask": {
+            "top_left": {
+              "y": 15,
+              "x": 15
+            },
+            "width": 15,
+            "height": 15
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F75005633%2F173443861358%2F1%2Foriginal.20191001-123659?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=fcd80957493451cc0783f729697767ac",
+            "width": 800,
+            "height": 400
+          },
+          "aspect_ratio": "2",
+          "edge_color": "#6a7c8b",
+          "edge_color_set": true
+        },
+        "venue": {
+          "name": "Great Venue",
+          "age_restriction": null,
+          "capacity": 100,
+          "address": {
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "region": null,
+            "postal_code": null,
+            "country": null,
+            "latitude": null,
+            "longitude": null
+          },
+          "resource_uri": "https://www.eventbriteapi.com/v3/venues/3003/",
+          "id": "3003",
+          "latitude": "49.28497549999999",
+          "longitude": "123.11082529999999"
+        },
+        "format_id": null,
+        "format": {
+          "id": "2",
+          "name": "Seminar or Talk",
+          "name_localized": "Seminar or Talk",
+          "short_name": "Seminar",
+          "short_name_localized": "Seminar",
+          "resource_uri": "https://www.eventbriteapi.com/v3/formats/2/"
+        },
+        "category": {
+          "id": "103",
+          "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+          "name": "Music",
+          "name_localized": "Music",
+          "short_name": "Music",
+          "short_name_localized": "Music",
+          "subcategories": [
+            {
+              "id": "3003",
+              "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+              "name": "Classical",
+              "parent_category": {}
+            }
+          ]
+        },
+        "subcategory": {
+          "id": "3003",
+          "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/3003/",
+          "name": "Classical",
+          "parent_category": {
+            "id": "103",
+            "resource_uri": "https://www.eventbriteapi.com/v3/categories/103/",
+            "name": "Music",
+            "name_localized": "Music",
+            "short_name": "Music",
+            "short_name_localized": "Music",
+            "subcategories": [
+              {}
+            ]
+          }
+        },
+        "music_properties": {
+          "age_restriction": null,
+          "presented_by": null,
+          "door_time": "2019-05-12T-19:00:00Z"
+        },
+        "bookmark_info": {
+          "bookmarked": false
+        },
+        "ticket_availability": {
+          "has_available_tickets": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "is_sold_out": true,
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          },
+          "waitlist_available": false
+        },
+        "listed": false,
+        "shareable": false,
+        "invite_only": false,
+        "show_remaining": true,
+        "password": "12345",
+        "capacity": 100,
+        "capacity_is_custom": true,
+        "tx_time_limit": "12345",
+        "hide_start_date": true,
+        "hide_end_date": true,
+        "locale": "en_US",
+        "is_locked": true,
+        "privacy_setting": "unlocked",
+        "is_externally_ticketed": false,
+        "external_ticketing": {
+          "external_url": "",
+          "ticketing_provider_name": "",
+          "is_free": false,
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "value": 432,
+            "major_value": "4.32",
+            "display": "4.32 USD"
+          },
+          "sales_start": "",
+          "sales_end": ""
+        },
+        "is_series": true,
+        "is_series_parent": true,
+        "series_id": "56321",
+        "is_reserved_seating": true,
+        "show_pick_a_seat": true,
+        "show_seatmap_thumbnail": true,
+        "show_colors_in_seatmap_thumbnail": true,
+        "is_free": true,
+        "source": "api",
+        "version": "null",
+        "resource_uri": "https://www.eventbriteapi.com/v3/events/1234/",
+        "event_sales_status": {
+          "sales_status": "text",
+          "start_sales_date": {
+            "timezone": "America/Los_Angeles",
+            "utc": "2018-05-12T02:00:00Z",
+            "local": "2018-05-11T19:00:00"
+          }
+        },
+        "checkout_settings": {
+          "created": "2018-01-31T13:00:00Z",
+          "changed": "2018-01-31T13:00:00Z",
+          "country_code": "",
+          "currency_code": "",
+          "checkout_method": "paypal",
+          "offline_settings": [
+            {
+              "payment_method": "CASH",
+              "instructions": ""
+            }
+          ],
+          "user_instrument_vault_id": ""
+        }
+      }
+    ]
+  }

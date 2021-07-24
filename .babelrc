@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    [
+      "styled-jsx/babel",
+      {
+        "plugins": [
+          ["styled-jsx-plugin-sass"],
+          {
+            "sassOptions": {
+              "includePaths": ["./src/styles"],
+              "precision": 2
+            }
+          }
+        ]
+      }
+    ]
+  ],
+}
